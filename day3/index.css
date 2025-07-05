@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+
+
+    background-color: bisque;
+}
+fieldset{
+    text-align: center;
+    margin-left: 330px;
+    width: 100px;
+    height: 50px;
+}
+div{
+    margin-left: 10px;
+    margin-right: 10px;
+}
